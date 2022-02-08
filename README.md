@@ -1,4 +1,5 @@
 ### Hi there 👋
+<hr>
 🌱 I’m currently learning Programming and Cyber Security
 <hr>
 🔭 I’m currently working on projects with Python and C++
