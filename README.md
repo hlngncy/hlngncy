@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning Programming and Cyber Security
+🔭 I’m currently working on projects with Python and C++
 <!--
 **RedK0i/RedK0i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
