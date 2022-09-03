@@ -36,4 +36,5 @@ Have been interested in Software Development and Cyber Security as a self-learne
 </p>
 ### Badges
 <b>My GitHub Stats</b>
+<br>
   <a href="http://www.github.com/redK0i"><img src="https://github-readme-stats.vercel.app/api?username=redK0i&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="redK0i's GitHub stats" /></a>
