@@ -32,7 +32,7 @@ Have been interested in Software Development and Cyber Security as a self-learne
                           
   <a href="https://discord.com/users/helen#6901" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/redK0i" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/helen-gen%C3%A7ay-038917216/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="[https://www.linkedin.com/in/helen-gen%C3%A7ay-038917216/](https://www.linkedin.com/in/helen-%C5%9Fevval-gen%C3%A7ay-038917216/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
