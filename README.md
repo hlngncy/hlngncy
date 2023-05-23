@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ------------------
 
-Have been interested in Software Development and Cyber Security as a self-learner since 2019. Open to improving and learning, enthusiastic about the industry, solution-oriented person.
+Have been interested in Software Development as a self-learner since 2019. Open to improving and learning.
 
 *   🌍  I'm based in Turkey
 *   ✉️  You can contact me at [hlngncy@gmail.com](mailto:hlngncy@gmail.com)
