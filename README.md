@@ -36,7 +36,7 @@ Have been interested in Software Development as a self-learner since 2019. Open 
 <table>
   <tr>
     <td>
-      <img src = "https://github-readme-stats.vercel.app/api?username=hlngncy&theme=github_dark">
+      <img src = "https://github-readme-stats.vercel.app/api?username=hlngncy&count_private=true&include_all_commits=true&theme=github_dark">
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlngncy&theme=github_dark_blue&hide_border=false" alt="helen's Streak">
