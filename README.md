@@ -33,6 +33,13 @@ Have been interested in Software Development as a self-learner since 2019. Open 
 
 ### Badges
 
-<b>My GitHub Stats</b>
-<br>
-  <a href="http://www.github.com/hlngncy"><img src="https://github-readme-stats.vercel.app/api?username=hlngncy&show_icons=true&hide=&count_private=true&title_color=ba509c&text_color=8c6f84&icon_color=0891b2&bg_color=1c1c1c&hide_border=true&show_icons=true" alt="hlngncy's GitHub stats" /></a>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hlngncy&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="helen's Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlngncy&theme=gruvbox&hide_border=false" alt="helen's Streak">
+    </td>
+  </tr>
+</table>
